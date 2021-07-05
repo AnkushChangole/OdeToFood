@@ -1,0 +1,12 @@
+D:\MVC\OdeToFood\OdeToFood.Data\bin\Release\OdeToFood.Data.dll.config
+D:\MVC\OdeToFood\OdeToFood.Data\bin\Release\OdeToFood.Data.dll
+D:\MVC\OdeToFood\OdeToFood.Data\bin\Release\OdeToFood.Data.pdb
+D:\MVC\OdeToFood\OdeToFood.Data\bin\Release\EntityFramework.dll
+D:\MVC\OdeToFood\OdeToFood.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\MVC\OdeToFood\OdeToFood.Data\bin\Release\EntityFramework.xml
+D:\MVC\OdeToFood\OdeToFood.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\MVC\OdeToFood\OdeToFood.Data\obj\Release\OdeToFood.Data.csprojAssemblyReference.cache
+D:\MVC\OdeToFood\OdeToFood.Data\obj\Release\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\MVC\OdeToFood\OdeToFood.Data\obj\Release\OdeToFood.Data.csproj.CopyComplete
+D:\MVC\OdeToFood\OdeToFood.Data\obj\Release\OdeToFood.Data.dll
+D:\MVC\OdeToFood\OdeToFood.Data\obj\Release\OdeToFood.Data.pdb
